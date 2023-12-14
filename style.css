@@ -1,0 +1,72 @@
+.top-part{
+    background: #F0FFF0;;
+}
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+    top: 30px;
+    left: 212px;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+    border: none;
+}
+.green-button{
+    width: Hug (104px);
+    height: Hug (43px);
+    top: 25px;
+    left: 1201px;
+    padding: 12px, 28px, 12px, 28px;
+    border-radius: 33px;
+    gap: 10px;
+    background: #21B573;
+    color: white;
+    border: none;
+    text-align: left;
+    
+
+}
+.red{
+    color: #FD511A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.col-md-4 h1{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.green{
+    color: #21B573;
+}
+.grey{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.started-btn{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: white;
+}
