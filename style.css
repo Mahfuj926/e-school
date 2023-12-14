@@ -1,5 +1,5 @@
-.top-part{
-    background: #F0FFF0;;
+.container{
+    margin-bottom: 200px;
 }
 .navbar-brand img{
     width: 198.07px;
@@ -7,10 +7,11 @@
     top: 30px;
     left: 212px;
 }
-.container-fluid{
+.background{
     background-color: #F0FFF0;
     border: none;
 }
+
 .green-button{
     width: Hug (104px);
     height: Hug (43px);
@@ -69,4 +70,56 @@
     border: none;
     border-radius: 33px;
     color: white;
+}
+.mid{
+    background-color: white;
+}
+
+.col-md-2{
+    width: 270px;
+    height: 270px;
+    top: 618px;
+    left: 135px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    background-color: #F0FFF0;
+}
+.col-md-2 img{
+    width: 66px;
+    height: 85px;
+    margin-top: 200px;
+    top: 672px;
+    left: 231px;
+    margin: 50px;
+    
+
+}
+.online-area h1{
+    text-align: center;
+}
+.testimonial-area{
+    text-align: center;
+}
+.doc-photo{
+    width: 120px;
+    height: 120px;
+    top: 1787px;
+    left: 353px;
+}
+.end-area{
+    background: #282531;
+    color: gray;
+    width: 1440px;
+    height: 369px;
+    top: 2013px;
+
+
+}
+.fix{
+    border: none;
+    
+}
+footer p{
+    text-align: center;
 }
